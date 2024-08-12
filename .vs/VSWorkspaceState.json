@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FI.AtividadeEntrevista",
+    "\\FI.AtividadeEntrevista\\DAL",
+    "\\FI.AtividadeEntrevista\\DAL\\Clientes",
+    "\\FI.AtividadeEntrevista\\DAL\\Clientes\\Procedures",
+    "\\FI.AtividadeEntrevista\\DAL\\Padrao",
+    "\\FI.WebAtividadeEntrevista",
+    "\\FI.WebAtividadeEntrevista\\App_Data",
+    "\\FI.WebAtividadeEntrevista\\Models",
+    "\\FI.WebAtividadeEntrevista\\Scripts\\Clientes"
+  ],
+  "SelectedNode": "\\FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj",
+  "PreviewInSolutionExplorer": false
+}
