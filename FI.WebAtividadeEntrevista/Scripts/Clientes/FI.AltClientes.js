@@ -94,8 +94,7 @@ $(document).ready(function () {
             },
             success:
             function (r) {
-                ModalDialog("Sucesso!", r)
-                $("#formCadastro")[0].reset();                                
+                sessionStorage.setItem("successMessage", r);
                 window.location.href = urlRetorno;
             }
         });
