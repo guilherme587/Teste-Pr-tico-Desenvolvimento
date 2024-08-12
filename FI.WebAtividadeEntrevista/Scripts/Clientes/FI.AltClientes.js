@@ -1,6 +1,5 @@
 ﻿
 $(document).ready(function () {
-    console.log(obj.Beneficiarios[0]);
     if (obj) {
         $('#formCadastro #Nome').val(obj.Nome);
         $('#formCadastro #CPF').val(obj.CPF);
